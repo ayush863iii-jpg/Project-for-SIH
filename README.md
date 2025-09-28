@@ -1,2 +1,2 @@
 # Project-for-SIH
-Ai powered smart curriculum attendence app
+Ai powered E-learning app
